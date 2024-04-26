@@ -1,0 +1,22 @@
+[project]
+name = "ansio"
+version = "0.0.1"
+authors = [
+  { name="Nice Zombies", email="nineteendo19d0@gmail.com" },
+]
+description = "AnsI/O module for ansi input & output"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GPL-3.0 license",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/nineteendo/ansio"
+Issues = "https://github.com/nineteendo/ansio/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
