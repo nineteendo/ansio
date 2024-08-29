@@ -1,6 +1,10 @@
 # AnsI/O
 
+[![pypi](https://img.shields.io/pypi/v/ansio.svg)](http://pypi.org/project/ansio)
+[![python](https://img.shields.io/pypi/pyversions/ansio.svg)](http://pypi.org/project/ansio)
+[![license](https://img.shields.io/pypi/l/ansio.svg)](http://pypi.org/project/ansio)
 [![pytest](https://github.com/nineteendo/ansio/actions/workflows/pytest.yml/badge.svg)](https://github.com/nineteendo/ansio/actions/workflows/pytest.yml)
+[![downloads](https://img.shields.io/pypi/dm/ansio.svg)](http://pypi.org/project/ansio)
 
 AnsI/O module for ansi input &amp; output
 
